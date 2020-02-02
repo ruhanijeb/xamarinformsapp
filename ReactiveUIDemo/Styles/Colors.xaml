@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary
+    x:Class="ReactiveUIDemo.Styles.Colors"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Color x:Key="AccentColor">#4e7279</Color>
+    <Color x:Key="AccentColorDark">#265b64</Color>
+
+    <Color x:Key="AccentColor2">#a7374a</Color>
+    <Color x:Key="AccentColor2Dark">#953141</Color>
+
+    <Color x:Key="PrimaryColor">#ebe6ca</Color>
+    <Color x:Key="PrimaryColorDark">#cecbb5</Color>
+</ResourceDictionary>
+    
