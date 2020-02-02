@@ -11,7 +11,7 @@ namespace ReactiveUIDemo.Service
 {
     public class MovieService : IMovieService, IDisposable
     {
-        private const string ApiKey = "1f54bd990f1cdfb230adb312546d765d";
+        private const string ApiKey = "0c436a7af5df4f1ef71e06012c4784a2";
         private readonly IApiService _movieApiService;
         private readonly ICache _movieCache;
         private readonly SourceCache<Movie, int> _internalSourceCache;
